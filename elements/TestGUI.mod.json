@@ -1,0 +1,25 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Subscribe",
+          "width": 180,
+          "height": 40,
+          "name": "Subscribe",
+          "x": 328,
+          "y": 104
+        }
+      }
+    ],
+    "inventories": []
+  }
+}
